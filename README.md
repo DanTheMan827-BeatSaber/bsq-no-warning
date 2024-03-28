@@ -1,6 +1,8 @@
 # NoWarning
 Skips the health and safety warning.
 
+I made this before I knew about [Transitions](https://github.com/Metalit/Transitions), so just use that.
+
 Use `qpm-rust s build` to build
 Same goes for `qpm-rust s copy` and `qpm-rust s qmod`
 
